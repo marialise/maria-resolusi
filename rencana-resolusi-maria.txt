@@ -1,7 +1,10 @@
 Rencana Konten
 
 - Javascript
-- Struktur Data Dasar
+  * Framework Javascript
+    ^ Angular
+    ^ React
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
