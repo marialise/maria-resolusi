@@ -1,6 +1,7 @@
 Rencana Konten
 
 - Javascript
+- Struktur Data Dasar
 - PHP Frameworks
 - Interview
 - Vlogs
