@@ -1,7 +1,11 @@
 Rencana Konten
 
 - Javascript
+  * Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Phyton
